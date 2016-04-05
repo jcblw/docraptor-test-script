@@ -28,8 +28,7 @@ const config = {
       prince_options: {
         javascript: true,
         baseurl: baseurl,
-        media: 'screen',
-        timeout: 60
+        media: 'print'
       }
     }
   }
