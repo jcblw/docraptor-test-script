@@ -1,5 +1,7 @@
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/docraptor-test-script.svg)](https://greenkeeper.io/)
+
 ```
 git clone <this repo>
 ```
